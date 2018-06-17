@@ -76,7 +76,6 @@ class Calendar extends Component {
                     onClick={() => this.onDateClick(dateFns.parse(cloneDay))}
                     >
                         <span className="number">{formattedDate}</span>
-                        <span className="bg">{formattedDate}</span>
                     </div>
                 );
                 day = dateFns.addDays(day, 1);
