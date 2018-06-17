@@ -69,6 +69,10 @@ header #logo .icon {
   padding-right: .25em;
 }
 
+.header-title {
+  text-align: center;
+}
+
 main {
   display: block;
   margin: 0 auto;

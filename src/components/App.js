@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1 className="App-title">React Calendar</h1>
+          <h1 className="header-title">React Calendar</h1>
         </header>
         <main>
           <Calendar />
